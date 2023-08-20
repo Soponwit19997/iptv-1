@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Channel 3.th",Channel 3 (1080p)
+https://cdn6.goprimetime.info/202306140918/ch3hd3/index.m3u8
+#EXTINF:-1 tvg-id="Channel 5.th",Channel 5 (1080p)
+https://cdn6.goprimetime.info/202306140918/ch5hd3/index.m3u8
+#EXTINF:-1 tvg-id="Channel 7.th",Channel 7 (1080p)
+https://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8?vhost=streaming-hwc.ch7.com
+#EXTINF:-1 tvg-id="Channel 9.th",Channel 9 (1080p)
+https://cdn6.goprimetime.info/202306140918/chmcothd3/index.m3u8
+#EXTINF:-1 tvg-id="NBT.th",NBT (1080p)
+https://cdn6.goprimetime.info/202306140918/chnbt3/index.m3u8
+#EXTINF:-1 tvg-id="Thai PBS.th",Thai PBS (1080p)
+https://cdn6.goprimetime.info/202306140918/chthaipbs3/index.m3u8
 #EXTINF:-1 tvg-id="4UTV.tr",4U TV (720p)
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AFNTV.ir",AFN TV (720p) [Not 24/7]
