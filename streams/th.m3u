@@ -176,7 +176,5 @@ http://183.89.246.119:8010/play/a00d/index.m3u8
 http://183.89.246.119:8010/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th",Thai TV 5 HD1 (1080p)
 http://183.89.246.119:8010/play/a00u/index.m3u8
-#EXTINF:-1 tvg-id="BBTVChannel7.th",BBTV Channel 7 (480p)
-http://183.89.246.119:8881/play/a07v/index.m3u8
 #EXTINF:-1 tvg-id="TopNews.th",Top News (480p)
 https://live.topnews.co.th/hls/topnews.m3u8
